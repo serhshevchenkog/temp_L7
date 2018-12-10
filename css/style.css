@@ -1,0 +1,9 @@
+:root {
+  /* Colors */
+  --primaryColor: #e9776c;
+  --secondaryColor: #2c3e50;
+  --backgroundColor: #f0f4f8;
+  /* Fonts */
+  --robotoFont: 'Roboto', sans-serif;
+  --ralewayFont: 'Raleway', sans-serif;
+}
